@@ -1,0 +1,65 @@
+# Vitis / IDE
+**/hls/
+**/reports/
+**/.autopilot/
+**/.debug/
+**/.Xil/
+**/.ide/
+**/.analytics/
+**/.theia/
+.theia/
+.peers.ini
+.repo.yaml
+.lock
+
+# Logs
+logs/
+**/logs/
+*.log
+*.backup.log
+*.steps.log
+xcd.log
+ide.log
+ide_verbose*.log
+
+# Crash / temp
+hs_err_pid*
+git_status.txt
+
+# HLS summaries
+*.hlscompile_summary
+*.hlsrun_csim_summary
+*.hlsrun_cosim_summary
+*.hlsrun_package_summary
+*.hlsrun_implementation_summary
+*_summary
+vitis_hls.log
+vitis-hls.log
+vitis.log
+compile_commands.json
+hash-map.txt
+
+# Generated project helper files
+project_*.tcl
+project_*_def_val.txt
+project_*_dump.txt
+*_def_val.txt
+*_dump.txt
+
+# Classic Vitis
+.metadata/
+Debug/
+Release/
+*/Debug/
+*/Release/
+RemoteSystemsTempFiles/
+_ide/
+*.elf
+*.o
+*.d
+*.bin
+
+# OS
+Thumbs.db
+.DS_Store*.zip
+**/*.zip

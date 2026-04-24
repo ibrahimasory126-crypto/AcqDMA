@@ -1,0 +1,12 @@
+{
+  "name": "acq_serial_dtf_m_axi",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "acq_serial_dtf_m_axi"
+  },
+  "previousBuildStatusMap": {}
+}
